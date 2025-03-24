@@ -21,7 +21,7 @@ const NavBar = () => {
       </div>
       <div>
         <a
-          href="src/assets/Ayishath Shahama.pdf"
+          href="/Ayishath Shahama.pdf" // Accessing from public folder
           download="Ayishath Shahama.pdf"
           className="py-2 px-4 bg-amber-400 border hover:border-amber-400 hover:bg-white rounded-md text-sm sm:text-base md:text-lg lg:text-xl text-stone-700 inline-block text-center"
         >

@@ -79,8 +79,8 @@ const Projects = () => {
       title: "Portfolio Website",
       description:
         "A personal portfolio website showcasing my projects, skills, and experience, built using React.js and Tailwind CSS.",
-      gitUrl: "https://github.com/shahama123/Portfolio.git",
-      demoUrl: "#",
+      gitUrl: "https://github.com/shahama123/Portfolio",
+      demoUrl: "https://portfolio-shahama.vercel.app/",
     },
     {
       image: fortViewSuitesClone,

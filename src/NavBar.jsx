@@ -84,7 +84,7 @@ const NavBar = () => {
             <li><a href="#Home" className="block py-2 text-gray-800 hover:text-amber-500 font-medium" onClick={toggleMenu}>Home</a></li>
             <li><a href="#About-Me" className="block py-2 text-gray-800 hover:text-amber-500 font-medium" onClick={toggleMenu}>About Me</a></li>
             <li><a href="#Skills" className="block py-2 text-gray-800 hover:text-amber-500 font-medium" onClick={toggleMenu}>Skills</a></li>
-            <li><a href="#Project" className="block py-2 text-gray-800 hover:text-amber-500 font-medium" onClick={toggleMenu}>Project</a></li>
+            <li><a href="#Projects" className="block py-2 text-gray-800 hover:text-amber-500 font-medium" onClick={toggleMenu}>Project</a></li>
             <li><a href="#Contact-Me" className="block py-2 text-gray-800 hover:text-amber-500 font-medium" onClick={toggleMenu}>Contact Me</a></li>
             <li className="pt-2">
               <a

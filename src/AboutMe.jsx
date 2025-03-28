@@ -39,7 +39,7 @@ const AboutMe = () => {
   );
 
   return (
-    <div id="About-Me" className="relative px-6 md:px-32 pb-32">
+    <div id="About-Me" className="relative px-6 md:px-32 py-0 md:py-24">
       <NetworkBackground /> {/* Background effect added */}
 
       <div className="text-center mb-10 relative z-10">

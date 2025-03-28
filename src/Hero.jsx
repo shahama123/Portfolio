@@ -40,7 +40,7 @@ const Hero = () => {
   return (
     <div
       id="Home"
-      className="flex justify-center items-center py-32 text-center"
+      className="flex justify-center items-center py-16 md:py-24 text-center"
     >
        <NetworkBackground /> {/* Background effect added */}
       <div className="space-y-3 md:space-y-8">
